@@ -59,6 +59,7 @@ rr1---sn-vgqsknz7.googlevideo.com
 rr1---sn-vgqsknzd.googlevideo.com
 rr1---sn-vgqsknzk.googlevideo.com
 rr1---sn-vgqsknzs.googlevideo.com
+rr1---sn-vgqsknzz.googlevideo.com
 rr1---sn-vgqsrn66.googlevideo.com
 rr1---sn-vgqsrn6e.googlevideo.com
 rr1---sn-vgqsrn6l.googlevideo.com
@@ -66,6 +67,7 @@ rr1---sn-vgqsrn6z.googlevideo.com
 rr1---sn-vgqsrne6.googlevideo.com
 rr1---sn-vgqsrned.googlevideo.com
 rr1---sn-vgqsrnek.googlevideo.com
+rr1---sn-vgqsrnld.googlevideo.com
 rr1---sn-vgqsrnlk.googlevideo.com
 rr1---sn-vgqsrnls.googlevideo.com
 rr1---sn-vgqsrns6.googlevideo.com
@@ -136,6 +138,7 @@ rr2---sn-vgqsrn6z.googlevideo.com
 rr2---sn-vgqsrnld.googlevideo.com
 rr2---sn-vgqsrns6.googlevideo.com
 rr2---sn-vgqsrnsd.googlevideo.com
+rr2---sn-vgqsrnz7.googlevideo.com
 rr2---sn-vgqsrnzd.googlevideo.com
 rr2---sn-vgqsrnzy.googlevideo.com
 rr3---sn-2imern76.googlevideo.com
@@ -207,7 +210,9 @@ rr3---sn-vgqsknld.googlevideo.com
 rr3---sn-vgqsknlk.googlevideo.com
 rr3---sn-vgqsknll.googlevideo.com
 rr3---sn-vgqsknls.googlevideo.com
+rr3---sn-vgqsknly.googlevideo.com
 rr3---sn-vgqsknz6.googlevideo.com
+rr3---sn-vgqsknzd.googlevideo.com
 rr3---sn-vgqsknzr.googlevideo.com
 rr3---sn-vgqsknzs.googlevideo.com
 rr3---sn-vgqsrn66.googlevideo.com
@@ -273,6 +278,7 @@ rr4---sn-vgqsknes.googlevideo.com
 rr4---sn-vgqsknld.googlevideo.com
 rr4---sn-vgqsknlk.googlevideo.com
 rr4---sn-vgqsknlr.googlevideo.com
+rr4---sn-vgqsknls.googlevideo.com
 rr4---sn-vgqsknz6.googlevideo.com
 rr4---sn-vgqsknzd.googlevideo.com
 rr4---sn-vgqsknzk.googlevideo.com
@@ -363,11 +369,14 @@ rr5---sn-vgqsrn6e.googlevideo.com
 rr5---sn-vgqsrn6l.googlevideo.com
 rr5---sn-vgqsrn6z.googlevideo.com
 rr5---sn-vgqsrned.googlevideo.com
+rr5---sn-vgqsrnek.googlevideo.com
 rr5---sn-vgqsrnez.googlevideo.com
 rr5---sn-vgqsrnl6.googlevideo.com
 rr5---sn-vgqsrnld.googlevideo.com
 rr5---sn-vgqsrnlk.googlevideo.com
 rr5---sn-vgqsrnll.googlevideo.com
+rr5---sn-vgqsrnls.googlevideo.com
 rr5---sn-vgqsrns6.googlevideo.com
+rr5---sn-vgqsrnsr.googlevideo.com
 rr5---sn-vgqsrnsy.googlevideo.com
 rr5---sn-vgqsrnzr.googlevideo.com
