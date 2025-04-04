@@ -391,6 +391,7 @@ rr3---sn-vgqsrn67.googlevideo.com
 rr3---sn-vgqsrn6e.googlevideo.com
 rr3---sn-vgqsrn6z.googlevideo.com
 rr3---sn-vgqsrne6.googlevideo.com
+rr3---sn-vgqsrnek.googlevideo.com
 rr3---sn-vgqsrnl6.googlevideo.com
 rr3---sn-vgqsrnld.googlevideo.com
 rr3---sn-vgqsrnlk.googlevideo.com
@@ -506,6 +507,7 @@ rr4---sn-qjp5q5-55.googlevideo.com
 rr4---sn-vgqskn66.googlevideo.com
 rr4---sn-vgqskn67.googlevideo.com
 rr4---sn-vgqskn6d.googlevideo.com
+rr4---sn-vgqskn6s.googlevideo.com
 rr4---sn-vgqskned.googlevideo.com
 rr4---sn-vgqsknes.googlevideo.com
 rr4---sn-vgqsknld.googlevideo.com
