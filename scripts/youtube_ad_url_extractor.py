@@ -45,7 +45,7 @@ def fetch_url_content(url):
     
     headers = {
         'User-Agent': USER_AGENT,
-        'Accept-Language': 'en-US,en;q=0.9'
+        'Accept-Language': 'vi-VN,vi;q=0.9'
     }
     
     try:
