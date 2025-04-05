@@ -214,6 +214,7 @@ rr2---sn-o097znss.googlevideo.com
 rr2---sn-o097znsz.googlevideo.com
 rr2---sn-o097znz7.googlevideo.com
 rr2---sn-o097znzd.googlevideo.com
+rr2---sn-o097znze.googlevideo.com
 rr2---sn-o097znzk.googlevideo.com
 rr2---sn-o097znzr.googlevideo.com
 rr2---sn-p5qddn76.googlevideo.com
@@ -522,6 +523,7 @@ rr4---sn-aigl6nzs.googlevideo.com
 rr4---sn-aigzrnse.googlevideo.com
 rr4---sn-aigzrnss.googlevideo.com
 rr4---sn-n4v7snee.googlevideo.com
+rr4---sn-n4v7sney.googlevideo.com
 rr4---sn-n4v7snl7.googlevideo.com
 rr4---sn-n4v7snll.googlevideo.com
 rr4---sn-n4v7snlr.googlevideo.com
