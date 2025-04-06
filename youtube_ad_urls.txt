@@ -152,6 +152,7 @@ rr1---sn-vgqskned.googlevideo.com
 rr1---sn-vgqsknek.googlevideo.com
 rr1---sn-vgqsknez.googlevideo.com
 rr1---sn-vgqsknld.googlevideo.com
+rr1---sn-vgqsknlk.googlevideo.com
 rr1---sn-vgqsknlr.googlevideo.com
 rr1---sn-vgqsknls.googlevideo.com
 rr1---sn-vgqsknly.googlevideo.com
@@ -559,6 +560,7 @@ rr3---sn-vgqsknll.googlevideo.com
 rr3---sn-vgqsknls.googlevideo.com
 rr3---sn-vgqsknly.googlevideo.com
 rr3---sn-vgqskns7.googlevideo.com
+rr3---sn-vgqsknsk.googlevideo.com
 rr3---sn-vgqsknz6.googlevideo.com
 rr3---sn-vgqsknz7.googlevideo.com
 rr3---sn-vgqsknzd.googlevideo.com
