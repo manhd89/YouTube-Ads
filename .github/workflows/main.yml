@@ -17,8 +17,10 @@ jobs:
 
     - name: Run ad URL extractor
       run: |
-        python scripts/youtube_ad_url_extractor.py > /dev/null 2>&1
-        cat youtube_ad_urls.txt
+        output=$(python scripts/youtube_ad_url_extractor.py "$YOUTUBE_URL" 2>&1)
+        echo "::group::Extraction Summary"
+        echo "$output" | grep -e 'Tổng kết' -e 'Domain mới' -e 'lưu'
+        echo "::endgroup::"
 
     - name: Check for changes
       id: changes
