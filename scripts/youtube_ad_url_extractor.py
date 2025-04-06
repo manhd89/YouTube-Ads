@@ -128,11 +128,7 @@ def main():
     print(f"- Domain mới: {len(new_domains)}")
     print(f"- Tổng cộng: {len(all_domains)}")
 
-    if save_domains(all_domains):
-        print(f"\nĐã lưu tất cả domain vào {OUTPUT_FILE}")
-    else:
-        print("\nCó lỗi khi lưu kết quả", file=sys.stderr)
-        sys.exit(1)
+    save_domains(all_domains)
 
 if __name__ == "__main__":
     main()
