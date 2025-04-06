@@ -17,7 +17,7 @@ jobs:
 
     - name: Run ad URL extractor
       run: |
-        output=$(python scripts/youtube_ad_url_extractor.py "$YOUTUBE_URL" 2>&1)
+        output=$(python scripts/youtube_ad_url_extractor.py 2>&1)
         echo "::group::Extraction Summary"
         echo "$output" | grep -e 'Tổng kết' -e'Domain hiện có' -e 'Domain mới' -e'Tổng cộng' -e 'lưu'
         echo "::endgroup::"
