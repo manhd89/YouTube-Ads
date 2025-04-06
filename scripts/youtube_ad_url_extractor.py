@@ -13,6 +13,7 @@ OUTPUT_FILE = "youtube_ad_urls.txt"
 MAX_WORKERS = 5
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 TIMEOUT = 30
+VERBOSE = False  # Thêm cờ để kiểm soát hiển thị log
 
 def is_ad_url(url):
     ad_keywords = ['ctier', 'oad', 'videoplayback', 'adformat']
@@ -53,11 +54,12 @@ def fetch_url_content(url):
         response = conn.getresponse()
         if response.status == 200:
             return response.read().decode('utf-8')
-        else:
+        elif VERBOSE:
             print(f"[ERROR] HTTP {response.status} khi truy cập {url}", file=sys.stderr)
-            return None
+        return None
     except Exception as e:
-        print(f"[ERROR] Lỗi kết nối đến {url}: {str(e)}", file=sys.stderr)
+        if VERBOSE:
+            print(f"[ERROR] Lỗi kết nối đến {url}: {str(e)}", file=sys.stderr)
         return None
     finally:
         conn.close()
@@ -73,7 +75,8 @@ def process_single_url(youtube_url):
         
         return {extract_domain(url) for url in found_urls if is_ad_url(url)}
     except Exception as e:
-        print(f"[ERROR] Lỗi khi xử lý {youtube_url}: {str(e)}", file=sys.stderr)
+        if VERBOSE:
+            print(f"[ERROR] Lỗi khi xử lý {youtube_url}: {str(e)}", file=sys.stderr)
         return set()
 
 def process_multiple_urls(urls):
@@ -87,9 +90,11 @@ def process_multiple_urls(urls):
             try:
                 domains = future.result()
                 new_domains.update(domains)
-                print(f"[OK] Đã xử lý: {url} ({len(domains)} domain mới)")
+                if VERBOSE:
+                    print(f"[OK] Đã xử lý: {url} ({len(domains)} domain mới)")
             except Exception as e:
-                print(f"[ERROR] Lỗi khi xử lý {url}: {str(e)}", file=sys.stderr)
+                if VERBOSE:
+                    print(f"[ERROR] Lỗi khi xử lý {url}: {str(e)}", file=sys.stderr)
     
     return new_domains
 
@@ -111,7 +116,8 @@ def save_domains(domains):
 
 def main():
     existing_domains = load_existing_domains()
-    print(f"Đã tải {len(existing_domains)} domain từ file hiện có")
+    if VERBOSE:
+        print(f"Đã tải {len(existing_domains)} domain từ file hiện có")
 
     youtube_urls = load_youtube_urls()
     
@@ -119,7 +125,8 @@ def main():
         print("Không tìm thấy URLs trong youtube_urls.txt")
         return
     
-    print(f"Bắt đầu xử lý {len(youtube_urls)} URLs YouTube...")
+    if VERBOSE:
+        print(f"Bắt đầu xử lý {len(youtube_urls)} URLs YouTube...")
     new_domains = process_multiple_urls(youtube_urls)
     
     all_domains = existing_domains.union(new_domains)
@@ -128,7 +135,11 @@ def main():
     print(f"- Domain mới: {len(new_domains)}")
     print(f"- Tổng cộng: {len(all_domains)}")
 
-    save_domains(all_domains)
+    if save_domains(all_domains):
+        print(f"\nĐã lưu tất cả domain vào {OUTPUT_FILE}")
+    else:
+        print("\nCó lỗi khi lưu kết quả", file=sys.stderr)
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
