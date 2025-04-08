@@ -218,6 +218,7 @@ rr1---sn-vgqsrnll.googlevideo.com
 rr1---sn-vgqsrnls.googlevideo.com
 rr1---sn-vgqsrnlz.googlevideo.com
 rr1---sn-vgqsrns6.googlevideo.com
+rr1---sn-vgqsrnsd.googlevideo.com
 rr1---sn-vgqsrnsr.googlevideo.com
 rr1---sn-vgqsrnsy.googlevideo.com
 rr1---sn-vgqsrnz6.googlevideo.com
