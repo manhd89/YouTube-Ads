@@ -101,8 +101,10 @@ rr1---sn-aigl6nzs.googlevideo.com
 rr1---sn-aigzrn76.googlevideo.com
 rr1---sn-aigzrn7d.googlevideo.com
 rr1---sn-aigzrn7e.googlevideo.com
+rr1---sn-aigzrn7s.googlevideo.com
 rr1---sn-aigzrnse.googlevideo.com
 rr1---sn-aigzrnsl.googlevideo.com
+rr1---sn-aigzrnsr.googlevideo.com
 rr1---sn-aigzrnss.googlevideo.com
 rr1---sn-aigzrnsz.googlevideo.com
 rr1---sn-aj5ua5-5c.googlevideo.com
@@ -595,6 +597,7 @@ rr3---sn-a5msenll.googlevideo.com
 rr3---sn-aigl6ned.googlevideo.com
 rr3---sn-aigl6nek.googlevideo.com
 rr3---sn-aigl6nl7.googlevideo.com
+rr3---sn-aigl6nsd.googlevideo.com
 rr3---sn-aigl6nsk.googlevideo.com
 rr3---sn-aigl6nz7.googlevideo.com
 rr3---sn-aigl6nze.googlevideo.com
@@ -608,6 +611,7 @@ rr3---sn-aigzrnse.googlevideo.com
 rr3---sn-aigzrnsl.googlevideo.com
 rr3---sn-aigzrnsr.googlevideo.com
 rr3---sn-aigzrnss.googlevideo.com
+rr3---sn-aigzrnz7.googlevideo.com
 rr3---sn-aj5ua5-5c.googlevideo.com
 rr3---sn-n4v7snee.googlevideo.com
 rr3---sn-n4v7sney.googlevideo.com
@@ -855,10 +859,13 @@ rr4---sn-aigl6nl7.googlevideo.com
 rr4---sn-aigl6ns6.googlevideo.com
 rr4---sn-aigl6nsd.googlevideo.com
 rr4---sn-aigl6nsr.googlevideo.com
+rr4---sn-aigl6nz7.googlevideo.com
 rr4---sn-aigl6nze.googlevideo.com
+rr4---sn-aigl6nzl.googlevideo.com
 rr4---sn-aigl6nzr.googlevideo.com
 rr4---sn-aigl6nzs.googlevideo.com
 rr4---sn-aigzrn76.googlevideo.com
+rr4---sn-aigzrn7e.googlevideo.com
 rr4---sn-aigzrn7k.googlevideo.com
 rr4---sn-aigzrn7l.googlevideo.com
 rr4---sn-aigzrn7s.googlevideo.com
@@ -868,6 +875,7 @@ rr4---sn-aigzrnse.googlevideo.com
 rr4---sn-aigzrnsl.googlevideo.com
 rr4---sn-aigzrnss.googlevideo.com
 rr4---sn-aigzrnsz.googlevideo.com
+rr4---sn-aigzrnz7.googlevideo.com
 rr4---sn-aigzrnze.googlevideo.com
 rr4---sn-n4v7snee.googlevideo.com
 rr4---sn-n4v7sney.googlevideo.com
@@ -1122,6 +1130,7 @@ rr5---sn-aigl6nzl.googlevideo.com
 rr5---sn-aigl6nzs.googlevideo.com
 rr5---sn-aigzrn7k.googlevideo.com
 rr5---sn-aigzrn7l.googlevideo.com
+rr5---sn-aigzrn7s.googlevideo.com
 rr5---sn-aigzrn7z.googlevideo.com
 rr5---sn-aigzrnld.googlevideo.com
 rr5---sn-aigzrnse.googlevideo.com
