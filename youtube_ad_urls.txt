@@ -309,6 +309,7 @@ rr2---sn-5ualdnsk.googlevideo.com
 rr2---sn-5ualdnsl.googlevideo.com
 rr2---sn-5ualdnsr.googlevideo.com
 rr2---sn-5ualdnss.googlevideo.com
+rr2---sn-5ualdnsy.googlevideo.com
 rr2---sn-5ualdnsz.googlevideo.com
 rr2---sn-5ualdnz7.googlevideo.com
 rr2---sn-5ualdnze.googlevideo.com
@@ -810,6 +811,7 @@ rr4---sn-5uaeznes.googlevideo.com
 rr4---sn-5uaeznez.googlevideo.com
 rr4---sn-5uaeznl6.googlevideo.com
 rr4---sn-5uaeznld.googlevideo.com
+rr4---sn-5uaeznls.googlevideo.com
 rr4---sn-5uaeznlz.googlevideo.com
 rr4---sn-5uaezns7.googlevideo.com
 rr4---sn-5uaeznse.googlevideo.com
