@@ -339,6 +339,7 @@ rr2---sn-1giz7n7l.googlevideo.com
 rr2---sn-2imern76.googlevideo.com
 rr2---sn-2imern7d.googlevideo.com
 rr2---sn-2imeyn7k.googlevideo.com
+rr2---sn-2o5ua5-53.googlevideo.com
 rr2---sn-2oaig5-55.googlevideo.com
 rr2---sn-5hne6n6e.googlevideo.com
 rr2---sn-5hne6n6l.googlevideo.com
@@ -1010,6 +1011,7 @@ rr4---sn-1giz7n7l.googlevideo.com
 rr4---sn-2imern76.googlevideo.com
 rr4---sn-2imern7d.googlevideo.com
 rr4---sn-2imeyn7k.googlevideo.com
+rr4---sn-2o5ua5-53.googlevideo.com
 rr4---sn-2oaig5-55.googlevideo.com
 rr4---sn-5hne6n6e.googlevideo.com
 rr4---sn-5hne6n6l.googlevideo.com
